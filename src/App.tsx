@@ -296,9 +296,9 @@ const Portfolio: React.FC = () => {
                 </div>
                 <h3 className="card-title">Professional Journey</h3>
                 <p className="card-text">
-                  Computer Engineering Technology graduate with HND from The Polytechnic Ibadan and currently pursuing B.Tech at FUOYE.
-                  Experienced Software Developer, Manager at 234Web Resources Nigeria Limited, and former Computer Laboratory Technician.
-                  Passionate about creating innovative web solutions and building robust digital infrastructures.
+               He is a B.Tech graduate in Computer Engineering from Federal University Oye-Ekiti (FUOYE) and a Computer Engineering Technology (HND) graduate from The Polytechnic, Ibadan.
+He is an experienced Software Developer, Manager at 234Web Resources Nigeria Limited, and a former Computer Laboratory Technician.
+He is passionate about developing innovative web solutions and building robust, scalable digital infrastructures.
                 </p>
               </div>
 
